@@ -1,4 +1,4 @@
-# Welcome to benstrickland.com!
+# Welcome to benstrickland.ca!
 
 ## Stack
 
